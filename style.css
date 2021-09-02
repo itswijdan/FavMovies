@@ -1,0 +1,38 @@
+body {
+  background-image: url(BG.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container {
+  width: auto;
+  background-color: rgb(198, 194, 241);
+  margin: 220px 60px;
+  border-radius: 30px;
+}
+table {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
+img {
+  height: 150px;
+  width: 150px;
+  margin-left: 550px;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin: auto 75px;
+}
+th {
+  background-color: #3d3d5e;
+  color: cornsilk;
+}
+td {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
