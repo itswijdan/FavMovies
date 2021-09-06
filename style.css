@@ -5,7 +5,7 @@ body {
 }
 .container {
   width: auto;
-  background-color: rgb(198, 194, 241);
+  background-color: rgba(34, 42, 117, 0.6);
   margin: 220px 60px;
   border-radius: 30px;
 }
@@ -15,6 +15,7 @@ table {
   margin-right: auto;
   margin-top: 30px;
   margin-bottom: 80px;
+  padding-bottom: 20px;
 }
 img {
   height: 150px;
@@ -35,4 +36,16 @@ th {
 td {
   border-collapse: collapse;
   border: 1px solid black;
+}
+a:link {
+  font-size: 1.2rem;
+  color: #c6c2f1;
+}
+a:visited {
+  color: #c6c2f1;
+}
+a:hover {
+  color: #c6c2f1;
+  background-color: #3d3d5e;
+  font-size: 1.2rem;
 }
